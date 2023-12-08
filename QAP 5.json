@@ -1,0 +1,26 @@
+[
+  {
+    "firstname": "Tom",
+    "lastname": "Johnson",
+    "gender": "male",
+    "birthday": "05/22/1994",
+    "status": "married",
+    "salary": 45000
+  },
+  {
+    "firstname": "Samantha",
+    "lastname": "Clooney",
+    "gender": "Female",
+    "birthday": "undisclosed",
+    "status": "Single",
+    "salary": 100000  
+  },
+  {
+    "firstname": "Zach",
+    "lastname": "Powers",
+    "gender": "male",
+    "birthday": "10/04/2000",
+    "status": "single",
+    "salary": 65000
+  }
+]
